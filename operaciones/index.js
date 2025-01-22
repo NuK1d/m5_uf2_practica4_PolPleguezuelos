@@ -14,7 +14,7 @@ function suma(...valors) {
  * 
  * @param  {...Number} valors els valors amb els que realitzar la operacio
  * @returns {Number} el resultat de la operacio
- */
+ *hola/
 function multiplica(...valors) { let resultat = 1; for (let valor of
     valors) { resultat *= valor; } return resultat; 
 }
